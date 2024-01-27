@@ -7,7 +7,7 @@ public class Spinner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //При старте
+        //пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
     }
 
     // Update is called once per frame
@@ -18,6 +18,6 @@ public class Spinner : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //
+        //Р±Р»Р° Р±Р»Р°
     }
 }
