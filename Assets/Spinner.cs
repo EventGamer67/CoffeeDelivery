@@ -18,6 +18,6 @@ public class Spinner : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //бла бла
+        
     }
 }
